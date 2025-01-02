@@ -34,7 +34,6 @@ Follow the below steps to set up the Math Quiz Program
 4. Set up the Environment:
   - Open Visual Studio Code
   - Use `File > Open Folder` to select the folder containing `main.py`.
-  - To share your code, you can push it to GitHub.
 
 ---
 ### Running the Program
@@ -60,7 +59,7 @@ Here are solutions to common problems:
 - Error: “Command not found” when running the program.
   - Ensure Python is installed and added to your system path.
 - Error: “Invalid input” message when answering a question.
-	- Enter only numeric values. Non-numeric values are not accepted.
+  - Enter only numeric values. Non-numeric values are not accepted.
 - Program does not run:
   - Confirm that the filename is correct (`main.py`)
 ---
