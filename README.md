@@ -1,4 +1,5 @@
-# SummativeTask1 - Math Quiz Program
+# Summative Assessment 1 - Math Quiz Program
+This repository contains the Math Quiz Program, a Python-based quiz designed to test and improve multiplication skills. It includes both the program code and accompanying documentation.
 
 # Task 2: User Manual and Technical Documentation for Task 1
 
@@ -20,8 +21,8 @@ Follow the below steps to set up the Math Quiz Program
 1. Install Python
   - Download Python 3.9 or higher from [https://www.python.org/](https://www.python.org/).
   - Follow the instructions to install Python on your system.
-  - Confirm the installation by opening a terminal annd typing:
-  ```python3 --version```
+  - Confirm the installation by opening a terminal and typing:
+    `python3 --version`
 
 2. Install Visual Studio Code:
   - Download and install VS Code from [https://code.visualstudio.com/](https://code.visualstudio.com/).
@@ -106,4 +107,7 @@ except ValueError:
 - Output: "Invalid input. Please enter a number."
 
 ### Version Information
-This program was develop using Python 3.12.4. Ensure compatibiltity by using Python 3.9 or higher.
+This program was developed using Python 3.12.4. Ensure compatibility by using Python 3.9 or higher.
+
+### Feedback
+If you encounter any issues or have suggestions for improvement, please open an issue in this repository.
