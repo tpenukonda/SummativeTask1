@@ -64,6 +64,11 @@ Here are solutions to common problems:
 - Program does not run:
   - Confirm that the filename is correct (`main.py`)
 ---
+### Features
+- Generates random multiplication questions.
+- Provides immediate feedback on answers.
+- Tracks scores across multiple questions.
+---
 ## Technical Documentation
 ### Overview
 The Math Quiz Program is a Python script that generates random multiplication equations, prompts the user to solve for `x`, and tracks their score. The script showcases basic programming concepts, including functions, loops, conditional statements and input validation.
@@ -105,9 +110,22 @@ except ValueError:
 2. Invalid Input:
 - Input: `abc`
 - Output: "Invalid input. Please enter a number."
-
+---
 ### Version Information
 This program was developed using Python 3.12.4. Ensure compatibility by using Python 3.9 or higher.
 
+---
 ### Feedback
 If you encounter any issues or have suggestions for improvement, please open an issue in this repository.
+
+---
+### Cloning the repository
+To clone the repository and run the program locally:
+```
+git clone https://github.com/tpenukonda/SummativeTasks
+```
+
+### If you'd like to to contribute:
+- Fork the repository
+- Create a new branch
+- Make your changes and test them
