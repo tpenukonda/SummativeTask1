@@ -115,10 +115,6 @@ except ValueError:
 This program was developed using Python 3.12.4. Ensure compatibility by using Python 3.9 or higher.
 
 ---
-### Feedback
-If you encounter any issues or have suggestions for improvement, please open an issue in this repository.
-
----
 ### Cloning the repository
 To clone the repository and run the program locally:
 ```
@@ -129,3 +125,7 @@ git clone https://github.com/tpenukonda/SummativeTasks
 - Fork the repository
 - Create a new branch
 - Make your changes and test them
+
+---
+### Feedback
+If you encounter any issues or have suggestions for improvement, please open an issue in this repository.
